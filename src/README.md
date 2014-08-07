@@ -3,9 +3,9 @@ Animate a Name
 
 Animate a name based on a idea of [Suriyaa Kudo](https://github.com/SuriyaaKudoIsc) and inspired by [Google](https://github.com/Google) and robhawkes.
 
-* Author: Suriyaa Kudo [https://github.com/SuriyaaKudoIsc](https://github.com/SuriyaaKudoIsc)
-* Orginal Website: [http://suriyaakudoisc.github.io/animate-a-name/](http://suriyaakudoisc.github.io/animate-a-name/)
-* Mirror Website: [http://isc-host.github.io/animate-a-name/](http://isc-host.github.io/animate-a-name/)
+* Author: Suriyaa Kudo [github.com/SuriyaaKudoIsc](https://github.com/SuriyaaKudoIsc)
+* Orginal Website: [suriyaakudoisc.github.io/animate-a-name.isc/](http://suriyaakudoisc.github.io/animate-a-name)
+* Mirror Website: [isc-host.github.io/animate-a-name/](http://isc-host.github.io/animate-a-name.isc/)
 * License: [iSC GitHub-License](http://license.isc/github/author)
 * Meaning: Use everywhere, keep copyright, it'd be swell if you'd link back here.
 

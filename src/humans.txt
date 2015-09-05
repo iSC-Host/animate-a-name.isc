@@ -4,24 +4,18 @@
 /* TEAM */
 
 Author: Suriyaa Kudo
-Site: http://suriyaa.isc
+Site: https://bit.ly/Suriyaa
 Twitter: @SuriyaaKudoIsc
-Location: Munich (MÜ) , Bavaria (BY), Germany (DE)
 
 ----
 
 /* THANKS */
 
 * GitHub
-* Modernizr
 
 ----
 
 /* SITE */
 
-Link: http://animate-a-name.isc
-Create date: 2014/07/30
-Last update: 2014/08/07
-Standards: HTML5, CSS3
-Components: HTML5, CSS3, JavaScript, Modernizr
-Software: GitHub
+Link: https://j.mp/AnimateAName
+Software: GitHub Pages
